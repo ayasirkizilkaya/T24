@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">T24haber</string>
+    <string name="news">Haberler</string>
+    <string name="reconnect">YENİDEN BAĞLAN</string>
+    <string name="noconnection">İnternet bağlantısı yok</string>
+    <string name="getnews">http://t24.com.tr/api/v3/stories.json?paging=</string>
+    <string name="getnewspage">http://t24.com.tr/api/v3/stories.json?story=</string>
+    <string name="getkats">http://t24.com.tr/api/v3/categories.json?type=story</string>
+    <string name="getbykats">http://t24.com.tr/api/v3/stories.json?category=</string>
+    <string name="shownewdataarrived">tane yeni haber, haber listenize eklendi, görmek için yukarıya çıkabilirsiniz</string>
+    <string name="share">Paylaş</string>
+    <string name="datanotfound">Veri İndirilemedi</string>
+    <string name="datanot">Veri indirilemedi, lütfen başka sayfalara geçiş yapınız</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">Details</string>
+    <string name="action_search">Search</string>
+</resources>
